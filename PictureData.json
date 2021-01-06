@@ -1,0 +1,30 @@
+[
+    {
+    	"id":1001,
+        "name":"02.08.2020",
+        "imageName":"Pic1",
+        "description":"Took this picture on the terrace of my apartment with my sister beside me",
+        "category":"hyderabad",
+    },
+    {
+    	"id": 1002,
+        "name":"15.01.2019",
+        "imageName":"Pic2",
+        "description":"Took this picture from the window of my room (Block 22) while studying",
+        "category":"manipal",
+    },
+    {
+        "id": 1003,
+        "name":"17.07.2020",
+        "imageName":"Pic3",
+        "description":"Took this picture on the terrace when I found the beautiful city lights enchanting",
+        "category":"hyderabad",
+    },
+    {
+        "id": 1004,
+        "name":"27.07.2020",
+        "imageName":"Pic3",
+        "description":"Took this picture on the terrace when the colour of the sky kept changing to beautiful colours",
+        "category":"hyderabad",
+    },
+]
